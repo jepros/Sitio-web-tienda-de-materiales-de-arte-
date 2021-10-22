@@ -1,0 +1,22 @@
+.lista ul{
+  width: 75rem;
+  margin: 0 auto;
+  margin-top: 7rem;
+}
+.lista ul li{
+  float: left;
+  width: 15rem;
+  list-style: none;
+}
+  .lista ul li p a{
+    display: inline-block;
+    width:9rem;
+    height:3rem;
+    background: #8581D9;
+    color: #fff;
+    line-height:3rem;
+    font-size:1rem;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor:pointer;
+  }

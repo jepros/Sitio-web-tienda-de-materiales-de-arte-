@@ -1,0 +1,8 @@
+.carrito{
+  width: 22rem;
+  height:100%;
+  top: 0;
+  right:-310px;
+  background: #E6E6FA;
+  font-size: 4rem;
+}
